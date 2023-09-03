@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 
-<style>
-  body {
-    background-color: #0d3328;
-  }
-</style>
+
 
 ![Visitor Count](https://shields.io/badge/dynamic/json?color=green&label=Visitors&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FS-Makeev%2FS-Makeev)
 
