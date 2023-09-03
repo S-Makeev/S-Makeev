@@ -9,9 +9,3 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-Makeev&show_icons=true&theme=dark)
-
-![GitHub stars](https://img.shields.io/github/stars/S-Makeev/S-Makeev?style=for-the-badge)
-
-![GitHub forks](https://img.shields.io/github/forks/S-Makeev/S-Makeev?style=for-the-badge)
-
-![GitHub issues](https://img.shields.io/github/issues/S-Makeev/S-Makeev?style=for-the-badge)
