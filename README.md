@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-
-
-![Visitor Count](https://shields.io/badge/dynamic/json?color=green&label=Visitors&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FS-Makeev%2FS-Makeev)
-
 #### Technologies I work with:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
